@@ -48,9 +48,9 @@ namespace ShapeExample
             Circle circle = new Circle(12.034);
             Rectagle rectagle = new Rectagle(7.48, 20.76);
             
-            Console.WriteLine($"Area of the circle is {circle.GetArea()} with radius {circle.Radius}");
-            Console.WriteLine($"Area of the Rectangle is {rectagle.GetArea()} with respective height and width" +
-                              $" {rectagle.Height}, {rectagle.Width}");
+            Console.WriteLine($"Area of the circle is {circle.GetArea()}m(Square) with radius {circle.Radius}m");
+            Console.WriteLine($"Area of the Rectangle is {rectagle.GetArea()}m(Square) with respective height and width" +
+                              $" {rectagle.Height}m, {rectagle.Width}m");
         }
     }
 }

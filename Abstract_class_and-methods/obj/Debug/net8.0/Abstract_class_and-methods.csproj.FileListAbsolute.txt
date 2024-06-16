@@ -1,0 +1,15 @@
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Abstract_class_and-methods/bin/Debug/net8.0/Abstract_class_and-methods
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Abstract_class_and-methods/bin/Debug/net8.0/Abstract_class_and-methods.deps.json
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Abstract_class_and-methods/bin/Debug/net8.0/Abstract_class_and-methods.runtimeconfig.json
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Abstract_class_and-methods/bin/Debug/net8.0/Abstract_class_and-methods.dll
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Abstract_class_and-methods/bin/Debug/net8.0/Abstract_class_and-methods.pdb
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Abstract_class_and-methods/obj/Debug/net8.0/Abstract_class_and-methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Abstract_class_and-methods/obj/Debug/net8.0/Abstract_class_and-methods.AssemblyInfoInputs.cache
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Abstract_class_and-methods/obj/Debug/net8.0/Abstract_class_and-methods.AssemblyInfo.cs
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Abstract_class_and-methods/obj/Debug/net8.0/Abstract_class_and-methods.csproj.CoreCompileInputs.cache
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Abstract_class_and-methods/obj/Debug/net8.0/Abstract_class_and-methods.sourcelink.json
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Abstract_class_and-methods/obj/Debug/net8.0/Abstract_class_and-methods.dll
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Abstract_class_and-methods/obj/Debug/net8.0/refint/Abstract_class_and-methods.dll
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Abstract_class_and-methods/obj/Debug/net8.0/Abstract_class_and-methods.pdb
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Abstract_class_and-methods/obj/Debug/net8.0/Abstract_class_and-methods.genruntimeconfig.cache
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Abstract_class_and-methods/obj/Debug/net8.0/ref/Abstract_class_and-methods.dll
