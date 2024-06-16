@@ -1,0 +1,15 @@
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Inheritance_and_method_overiiding/bin/Debug/net8.0/Inheritance_and_method_overiiding
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Inheritance_and_method_overiiding/bin/Debug/net8.0/Inheritance_and_method_overiiding.deps.json
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Inheritance_and_method_overiiding/bin/Debug/net8.0/Inheritance_and_method_overiiding.runtimeconfig.json
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Inheritance_and_method_overiiding/bin/Debug/net8.0/Inheritance_and_method_overiiding.dll
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Inheritance_and_method_overiiding/bin/Debug/net8.0/Inheritance_and_method_overiiding.pdb
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Inheritance_and_method_overiiding/obj/Debug/net8.0/Inheritance_and_method_overiiding.GeneratedMSBuildEditorConfig.editorconfig
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Inheritance_and_method_overiiding/obj/Debug/net8.0/Inheritance_and_method_overiiding.AssemblyInfoInputs.cache
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Inheritance_and_method_overiiding/obj/Debug/net8.0/Inheritance_and_method_overiiding.AssemblyInfo.cs
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Inheritance_and_method_overiiding/obj/Debug/net8.0/Inheritance_and_method_overiiding.csproj.CoreCompileInputs.cache
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Inheritance_and_method_overiiding/obj/Debug/net8.0/Inheritance_and_method_overiiding.sourcelink.json
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Inheritance_and_method_overiiding/obj/Debug/net8.0/Inheritance_and_method_overiiding.dll
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Inheritance_and_method_overiiding/obj/Debug/net8.0/refint/Inheritance_and_method_overiiding.dll
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Inheritance_and_method_overiiding/obj/Debug/net8.0/Inheritance_and_method_overiiding.pdb
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Inheritance_and_method_overiiding/obj/Debug/net8.0/Inheritance_and_method_overiiding.genruntimeconfig.cache
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Inheritance_and_method_overiiding/obj/Debug/net8.0/ref/Inheritance_and_method_overiiding.dll
