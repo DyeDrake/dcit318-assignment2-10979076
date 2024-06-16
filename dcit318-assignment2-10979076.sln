@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance_and_method_over
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract_class_and-methods", "Abstract_class_and-methods\Abstract_class_and-methods.csproj", "{A933C02C-A6F9-4023-97B4-E5809E8DE998}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_and_implementation_car", "Interface_and_implementation_car\Interface_and_implementation_car.csproj", "{33145A36-5CCD-41F4-B410-FFCE50D2D552}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{A933C02C-A6F9-4023-97B4-E5809E8DE998}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A933C02C-A6F9-4023-97B4-E5809E8DE998}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A933C02C-A6F9-4023-97B4-E5809E8DE998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33145A36-5CCD-41F4-B410-FFCE50D2D552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33145A36-5CCD-41F4-B410-FFCE50D2D552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33145A36-5CCD-41F4-B410-FFCE50D2D552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33145A36-5CCD-41F4-B410-FFCE50D2D552}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

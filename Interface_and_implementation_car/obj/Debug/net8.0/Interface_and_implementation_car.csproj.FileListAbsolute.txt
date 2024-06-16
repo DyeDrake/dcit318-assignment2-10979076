@@ -1,0 +1,15 @@
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Interface_and_implementation_car/bin/Debug/net8.0/Interface_and_implementation_car
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Interface_and_implementation_car/bin/Debug/net8.0/Interface_and_implementation_car.deps.json
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Interface_and_implementation_car/bin/Debug/net8.0/Interface_and_implementation_car.runtimeconfig.json
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Interface_and_implementation_car/bin/Debug/net8.0/Interface_and_implementation_car.dll
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Interface_and_implementation_car/bin/Debug/net8.0/Interface_and_implementation_car.pdb
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Interface_and_implementation_car/obj/Debug/net8.0/Interface_and_implementation_car.GeneratedMSBuildEditorConfig.editorconfig
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Interface_and_implementation_car/obj/Debug/net8.0/Interface_and_implementation_car.AssemblyInfoInputs.cache
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Interface_and_implementation_car/obj/Debug/net8.0/Interface_and_implementation_car.AssemblyInfo.cs
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Interface_and_implementation_car/obj/Debug/net8.0/Interface_and_implementation_car.csproj.CoreCompileInputs.cache
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Interface_and_implementation_car/obj/Debug/net8.0/Interface_and_implementation_car.sourcelink.json
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Interface_and_implementation_car/obj/Debug/net8.0/Interface_and_implementation_car.dll
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Interface_and_implementation_car/obj/Debug/net8.0/refint/Interface_and_implementation_car.dll
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Interface_and_implementation_car/obj/Debug/net8.0/Interface_and_implementation_car.pdb
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Interface_and_implementation_car/obj/Debug/net8.0/Interface_and_implementation_car.genruntimeconfig.cache
+/home/clifford/RiderProjects/dcit318-assignment2-10979076/Interface_and_implementation_car/obj/Debug/net8.0/ref/Interface_and_implementation_car.dll
